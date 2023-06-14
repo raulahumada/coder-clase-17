@@ -1,0 +1,17 @@
+{
+  "name": "coder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.2.4",
+    "mongoose-paginate-v2": "^1.7.1"
+  }
+}
